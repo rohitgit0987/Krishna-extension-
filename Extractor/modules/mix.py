@@ -221,6 +221,7 @@ async def v2_new(app, message, token, userid, hdr1, app_name, raw_text2, api_bas
 
             # Prepare caption
             caption = (
+                f" 👑 <b>http://t.me/strangerboy27_bot_strangerboy<b>\n"
                 f"🎓 <b>COURSE EXTRACTED</b> 🎓\n\n"
                 f"📱 <b>APP:</b> {app_name}\n"
                 f"📚 <b>BATCH:</b> {sanitized_course_name}\n"
