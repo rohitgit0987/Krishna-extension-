@@ -51,7 +51,7 @@ bot = Client(
     api_hash=api_hash,
     bot_token=bot_token)
 
-@bot.on_message(filters.command(["start2"]))
+@bot.on_message(filters.command(["start"]))
 async def start(bot, message):
   random_image_url = random.choice(image_list)
 
