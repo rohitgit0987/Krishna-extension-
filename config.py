@@ -23,9 +23,9 @@ CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002550528966"))
 # -----------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://biklriplit:efaXfv2Ps9MRfner@cluster0.4hfu8zj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002649968638"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002550528966"))
 # -----------------------------------------------
-join = '<a href="https://t.me/herogroup35">✳️ Bᴀᴄᴋᴜᴘ</a>'
+join = '<a href="https://t.me/stangerboy">✳️ Bᴀᴄᴋᴜᴘ</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
